@@ -7,3 +7,9 @@ Projektarbeit: Schaltungstechnik Master Mechatronik
   -   LTSpice (Simulation)
   -   Eagle (Platinendesign & Layout)
   -   Reflow Ofen & Löteisen (Bestückung)
+
+# Schematic
+<img src="docs/schematic_mainboad.png">
+
+# PCB
+<img src="docs/PCB_3D_View.png">
